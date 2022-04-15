@@ -1,0 +1,92 @@
+{
+    "name":"TinroPay",
+    "description":"Jajan sambil tiduran",
+    "meta_tags":"voucher, games, web",
+    "carousel": [
+        {
+            "name":"Promosi 1",
+            "imageUrl":"./carousel-1.jpg",
+            "alt":"Promosi"
+        },        {
+            "name":"Promosi 2",
+            "imageUrl":"./carousel-1.jpg",
+            "alt":"Promosi"
+        },
+        {
+            "name":"Promosi 3",
+            "imageUrl":"./carousel-1.jpg",
+            "alt":"Promosi"
+        }
+    ],
+    "most_popular":[
+        {
+            "name":"Genshin Impact",
+            "imageUrl":"./popular/genshin.jpg",
+            "alt":"Genshin Impact",
+            "links":"genshin-impact"
+        },
+        {
+            "name":"Valorant",
+            "imageUrl":"./popular/valo.jpg",
+            "alt":"Valorant",
+            "links":"valorant"
+        },
+        {
+            "name":"Google Play",
+            "imageUrl":"./popular/gp.jpg",
+            "alt":"Google Play",
+            "links":"google-play"
+        },
+        {
+            "name":"Vidio",
+            "imageUrl":"./popular/vidio.jpg",
+            "alt":"Vidio",
+            "links":"vidio"
+        }
+    ],
+    "voucher_games":[
+        {
+            "name":"Genshin Impact",
+            "imageUrl":"./popular/genshin.jpg",
+            "alt":"Genshin Impact",
+            "links":""
+        },
+        {
+            "name":"Valorant",
+            "imageUrl":"./popular/valo.jpg",
+            "alt":"Valorant",
+            "links":""
+        },
+        {
+            "name":"Nintendo Eshop",
+            "imageUrl":"./images/eshop.jpg",
+            "alt":"Nintendo Eshop",
+            "links":""
+        },
+        {
+            "name":"Steam Wallet",
+            "imageUrl":"./images/steam.jpg",
+            "alt":"Steam Wallet",
+            "links":""
+        }
+    ],
+    "voucher_entertainment":[
+        {
+            "name":"Google Play",
+            "imageUrl":"./popular/gp.jpg",
+            "alt":"Google Play",
+            "links":""
+        },
+        {
+            "name":"Vidio",
+            "imageUrl":"./popular/vidio.jpg",
+            "alt":"Vidio",
+            "links":""
+        }
+    ],
+    "about": {
+        "title":"About",
+        "description":""
+    }
+
+}

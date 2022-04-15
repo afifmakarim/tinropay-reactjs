@@ -1,0 +1,31 @@
+{
+    "name":"Genshin Impact",
+    "description":"JRPG Mihoyo",
+    "meta_tags":"voucher, games, web",
+    "slug-name":"genshin-impact",
+    "denomList":[{
+        "name":"125 GC",
+        "price":"Rp. 20.000",
+        "amount":"20000"
+    },{
+        "name":"300 GC",
+        "price":"Rp. 30.000",
+        "amount":"30000"
+    },{
+        "name":"600 GC",
+        "price":"Rp. 40.000",
+        "amount":"40000"
+    }],
+    "paymentMethodList":[{
+        "id":"LA-01",
+        "name":"LinkAja"
+    },
+    {
+        "id":"GP-01",
+        "name":"Gopay"
+    },
+    {
+        "id":"QR-01",
+        "name":"Qris"
+    }]
+}
